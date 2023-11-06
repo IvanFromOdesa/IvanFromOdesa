@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  Ivan Krylosov.
+  Ivan Krylosov
 </h1>
 
 
