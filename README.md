@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I'm currently working on **Score-track**
+ 🔭 I'm currently working on **[Score-track](https://github.com/IvanFromOdesa/score-track)**
  
  🌱 I’m currently learning **NextJs and Tailwind**
 
