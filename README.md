@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,mui,html,css,vscode,github,docker,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,mui,html,css,jquery,tailwind,docker,k8s,git" />
     <img src="https://skillicons.dev/icons?i=spring,java,nodejs,javascript,typescript,graphql,redis,mongodb,mysql,postgresql,kafka,aws" /><br>
 </div>
 
