@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 </h1>
 
 
-<h3 align="center">A passionate software developer from Ukraine</h3>
+<h3 align="center">Software developer from Ukraine</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I'm currently working on **[Score-track](https://github.com/IvanFromOdesa/score-track)**
+ 🔭 Currently working on **[Score-track](https://github.com/IvanFromOdesa/score-track)**
  
- 🌱 I’m currently learning **NextJs and Tailwind**
+ 🌱 Currently learning **NextJs and Tailwind**
 
- ⚡ I have 0.5 years of commercial experience as a Fullstack developer at **VData Entwicklung Gmbh**
+ ⚡ Overall, I have 2 years of commercial experience as a Fullstack developer.
  
  </div>
 
