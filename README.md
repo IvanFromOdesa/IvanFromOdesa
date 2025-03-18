@@ -22,12 +22,10 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
- 
- 🔭 Currently working on **[Score-track](https://github.com/IvanFromOdesa/score-track)**
- 
- 🌱 Currently learning **NextJs and Tailwind**
 
- ⚡ Overall, I have 2 years of commercial experience as a Fullstack developer.
+ 🔭 Bachelor's degree at Software Engineering
+ 🌱 Experience as Fullstack dev in InsurTech field
+ ⚡ Motivated and eager to deliver solutions that matter
  
  </div>
 
