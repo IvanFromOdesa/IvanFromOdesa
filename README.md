@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <div align="center">
 
  🔭 Bachelor's degree at Software Engineering
+ 
  🌱 Experience as Fullstack dev in InsurTech field
+ 
  ⚡ Motivated and eager to deliver solutions that matter
  
  </div>
